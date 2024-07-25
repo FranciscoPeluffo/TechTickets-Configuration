@@ -8,7 +8,7 @@
 		<version>3.3.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.TechTickets-Configuration</groupId>
+	<groupId>com.github.FranciscoPeluffo</groupId>
 	<artifactId>TechTickets-Configuration</artifactId>
 	<version>1.0.0</version>
 	<name>TechTickets-Configuration</name>
