@@ -1,0 +1,10 @@
+com\TechTickets_Configuration\Configuration\SecurityConfig.class
+com\TechTickets_Configuration\Configuration\ApplicationConfig.class
+com\TechTickets_Configuration\Entity\User$UserBuilder.class
+com\TechTickets_Configuration\Entity\User.class
+com\TechTickets_Configuration\Jwt\JWTService.class
+com\TechTickets_Configuration\Utils\HeaderUtils.class
+com\TechTickets_Configuration\Jwt\JwtAuthenticationFilter.class
+com\TechTickets_Configuration\Repository\IUserRepository.class
+com\TechTickets_Configuration\Enums\UserType.class
+com\TechTickets_Configuration\Enums\IdType.class
