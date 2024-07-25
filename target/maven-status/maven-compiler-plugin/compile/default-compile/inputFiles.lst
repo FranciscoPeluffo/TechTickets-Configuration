@@ -1,0 +1,9 @@
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Configuration\ApplicationConfig.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Configuration\SecurityConfig.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Entity\User.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Enums\IdType.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Enums\UserType.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Jwt\JwtAuthenticationFilter.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Jwt\JWTService.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Repository\IUserRepository.java
+C:\Users\Franp\Desktop\Documentos\TechTickets-Configuration\src\main\java\com\TechTickets_Configuration\Utils\HeaderUtils.java
